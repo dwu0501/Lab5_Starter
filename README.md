@@ -5,7 +5,7 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 - Daniel Wu
 
 ## Links to expose.html and explore.html
-[expose.html](https://dwu0501.github.io/Lab5_Starter/expose.html)
+[expose.html](https://dwu0501.github.io/Lab5_Starter/expose.html) <br>
 [explore.html](https://dwu0501.github.io/Lab5_Starter/explore.html)
 
 ## Explore - pt.2
